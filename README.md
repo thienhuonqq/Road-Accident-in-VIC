@@ -9,7 +9,7 @@ I performed meticulous data cleaning and preprocessing on datasets detailing acc
 ### Data Integration: 
 Relevant datasets were merged to create a consolidated dataset for in-depth analysis.
 ### Exploratory Data Analysis (EDA): 
-I explored the data to identify time-based patterns, geographical distribution, and condition specifics using Tableau to create interactive Dashboard.
+I explored the data to identify time-based patterns, geographical distribution, and condition specifics using Tableau to create interactive Dashboard. https://public.tableau.com/app/profile/thienhuong.nguyen/viz/VICRoadAccidentDashboard2000-2005/Story 
 
 ## Key Findings
 ### Demographic Analysis:
