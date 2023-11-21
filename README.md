@@ -9,7 +9,7 @@ I performed meticulous data cleaning and preprocessing on datasets detailing acc
 ### Data Integration: 
 Relevant datasets were merged to create a consolidated dataset for in-depth analysis.
 ### Exploratory Data Analysis (EDA): 
-I explored the data to identify time-based patterns, geographical distribution, and condition specifics.
+I explored the data to identify time-based patterns, geographical distribution, and condition specifics using Tableau to create interactive Dashboard.
 
 ## Key Findings
 ### Demographic Analysis:
